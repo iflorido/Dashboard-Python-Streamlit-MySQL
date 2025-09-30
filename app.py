@@ -19,5 +19,6 @@ def conectar_mysql():
         password="tu_contraseña",
         database="tu_base_de_datos"
     )
-      
+
+     
 '''
