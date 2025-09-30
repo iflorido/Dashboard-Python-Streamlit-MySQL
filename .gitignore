@@ -1,1 +1,2 @@
 conexion_mysql.py
+.streamlit/secrets.toml
